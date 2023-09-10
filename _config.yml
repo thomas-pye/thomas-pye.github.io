@@ -31,7 +31,7 @@ github_username:
 
 # Build settings
 # theme: minimal-mistakes-jekyll
-remote_theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 plugins:
