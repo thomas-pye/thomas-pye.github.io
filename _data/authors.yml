@@ -1,0 +1,19 @@
+Tom Pye:
+  name             : "Tom Pye"
+  avatar           : "/assets/me.jpg"
+  bio              : "The Automation Guy."
+  location         : "Nottingham, UK"
+  email            :
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:thomaspye01@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://thomas-pye.github.io"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/thomas-pye"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/thomaspye/"
