@@ -3,7 +3,7 @@ author: Tom Pye
 title: Getting Started with Terraform - Part 1
 tags: terraform windows azure
 date: 2023-09-10
-#published: false
+published: false
 ---
 
 Today we are going to talk about the bare basics of running terraform locally. In this article we will setup a basic configuration, run all the main terraform commands in order to create a very simple infrastructure setup on azure.
